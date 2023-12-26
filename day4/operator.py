@@ -1,7 +1,7 @@
 iteration = int(input("enter the number of iterations:"))
 numbers = []
 for i in range(iteration):
-    num = int(input(f"Enter input {i + 1}: "))
+    num = int(input("Enter input {i + 1}: "))
     numbers.append(num)
 
 
