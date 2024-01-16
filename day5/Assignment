@@ -1,0 +1,7 @@
+Create 2 classes, Storage and Item:
+Item has - name, type, size, others (For all optional data stored as dict)
+Storage has - host, port, protocol, container
+Item init params - name, type, others,
+Storage - host, port, protocol
+Item methods - calculate_size(length of name + length of type) and will store it in size attribute
+Storage methods : add_element (add item to container which will be by default a list) calculate_size (gives the container size that is sum of size of all items.)
