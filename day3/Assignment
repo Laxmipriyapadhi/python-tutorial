@@ -1,0 +1,4 @@
+- Take integer input from user
+- Run three nested for loops
+- and append element to an empty list
+- print the list
