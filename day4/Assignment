@@ -1,0 +1,6 @@
+- Take int input from user
+- Run a for loop with the user's input.
+- Take int input for every iteration and append it in a list, msg: Enter input 1
+- After the loop, take str input from user mentioning choices i.e. add, subtract, divide, multiply, floor divide,
+- Perform the operation user has entered on the list and print the result.
+- Rules: Can not use sum function, only operators are allowed.
